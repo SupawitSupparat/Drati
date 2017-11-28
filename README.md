@@ -1,4 +1,4 @@
 # Drati
 
--Start npm 
+-Start npm //
 nodemon --exec npm start
